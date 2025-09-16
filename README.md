@@ -1,7 +1,6 @@
-(https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/491935626_2142000769556109_6438846212574393459_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NogWiT58_xwQ7kNvwH9yR2k&_nc_oc=AdnvpPpA5Wospfvc0ScNwgbt8RdboHsAHLnzigZFsHR3t5xvFt0XCyXESRUDT288jPs&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=npw_PWl6BlulBDkNHaiQGg&oh=00_AfYlXzjVtkdOBp_ptZFqB84UZA_evii37oMyIzZL1jHaiA&oe=68CF535B)
 ### Hi there 👋, my name is Tahsin
 #### Currently working on Django Website , Next to build Software
-![Currently working on Django Website , Next to build Software]
+![Currently working on Django Website , Next to build Software](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/491935626_2142000769556109_6438846212574393459_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NogWiT58_xwQ7kNvwH9yR2k&_nc_oc=AdnvpPpA5Wospfvc0ScNwgbt8RdboHsAHLnzigZFsHR3t5xvFt0XCyXESRUDT288jPs&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=npw_PWl6BlulBDkNHaiQGg&oh=00_AfYlXzjVtkdOBp_ptZFqB84UZA_evii37oMyIzZL1jHaiA&oe=68CF535B)
 
 I am just a ordinary person & a peace loving soul. I have no enemies. In fact no one born to have enemy.I just stay connected to my daily activities and insallah one day I will be the elite programmer in country
 
