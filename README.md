@@ -6,15 +6,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=28&pause=1000&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=800&lines=Competitive+Programmer+%7C+ICPC+Regionalist+2024;Software+Engineering+Student+%7C+Final+Year;Creator+of+dotG+Mono+Font+%26+Catppuccin+Dark+Pro;Building+the+Future+One+Line+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=28&pause=1000&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=800&lines=Competitive+Programmer;Software+Engineering+Student+%7C+Third+Year)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/SharifdotG?style=for-the-badge&logo=github&logoColor=white&color=CBA6F7&labelColor=1E1E2E)](https://github.com/Tahsin22201243)
-[![GitHub stars](https://img.shields.io/github/stars/SharifdotG?style=for-the-badge&logo=github&logoColor=white&color=F9E2AF&labelColor=1E1E2E)](https://github.com/Tahsin22201243)
-[![Profile views](https://komarev.com/ghpvc/?username=SharifdotG&style=for-the-badge&color=89B4FA&label=PROFILE+VIEWS&base=2000)](https://github.com/Tahsin22201243)
+[![GitHub followers](https://img.shields.io/github/followers/Tahsin22201243?style=for-the-badge&logo=github&logoColor=white&color=CBA6F7&labelColor=1E1E2E)](https://github.com/Tahsin22201243)
+[![GitHub stars](https://img.shields.io/github/stars/Tahsin22201243?style=for-the-badge&logo=github&logoColor=white&color=F9E2AF&labelColor=1E1E2E)](https://github.com/Tahsin22201243)
+[![Profile views](https://komarev.com/ghpvc/?username=Tahsin22201243&style=for-the-badge&color=89B4FA&label=PROFILE+VIEWS&base=2000)](https://github.com/Tahsin22201243)
 
 </div>
 
@@ -85,7 +85,7 @@ const tahsin = {
 
 ---
 
-### 🛒 **[SohojWeb]((https://github.com/Tahsin22201243/SohojWeb.git))**
+### 🛒 **[SohojWeb](https://github.com/Tahsin22201243/SohojWeb.git)**
 >
 > 🖥️ **Halal Investment Platform** 
 
@@ -95,7 +95,7 @@ Sohoj Biniyog is a halal investment site where investors will invest through SME
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-69.5%25-orange?style=for-the-badge)
 
-(https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/491935626_2142000769556109_6438846212574393459_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NogWiT58_xwQ7kNvwH9yR2k&_nc_oc=AdnvpPpA5Wospfvc0ScNwgbt8RdboHsAHLnzigZFsHR3t5xvFt0XCyXESRUDT288jPs&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=npw_PWl6BlulBDkNHaiQGg&oh=00_AfYlXzjVtkdOBp_ptZFqB84UZA_evii37oMyIzZL1jHaiA&oe=68CF535B)
+
 
 <div align="center">
 
