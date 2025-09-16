@@ -1,25 +1,107 @@
-### Hi there 👋, my name is Tahsin
-#### Currently working on Django Website , Next to build Software
-![Currently working on Django Website , Next to build Software](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/491935626_2142000769556109_6438846212574393459_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NogWiT58_xwQ7kNvwH9yR2k&_nc_oc=AdnvpPpA5Wospfvc0ScNwgbt8RdboHsAHLnzigZFsHR3t5xvFt0XCyXESRUDT288jPs&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=npw_PWl6BlulBDkNHaiQGg&oh=00_AfYlXzjVtkdOBp_ptZFqB84UZA_evii37oMyIzZL1jHaiA&oe=68CF535B)
+<div align="center">
 
-I am just a ordinary person & a peace loving soul. I have no enemies. In fact no one born to have enemy.I just stay connected to my daily activities and insallah one day I will be the elite programmer in country
+# 👋 Hi! I'm **H. M. Tahsin Sheikh**
 
-Skills: REACT / JS / HTML / CSS/PYTHON/C/C++/JAVA
+</div>
 
-- 🔭 I’m currently working on SohojWeb 
-- 🌱 I’m currently learning JavaScripts 
-- ⚡ Fun fact: Somebody at now spying on me 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=28&pause=1000&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=800&lines=Competitive+Programmer+%7C+ICPC+Regionalist+2024;Software+Engineering+Student+%7C+Final+Year;Creator+of+dotG+Mono+Font+%26+Catppuccin+Dark+Pro;Building+the+Future+One+Line+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/SharifdotG?style=for-the-badge&logo=github&logoColor=white&color=CBA6F7&labelColor=1E1E2E)](https://github.com/Tahsin22201243)
+[![GitHub stars](https://img.shields.io/github/stars/SharifdotG?style=for-the-badge&logo=github&logoColor=white&color=F9E2AF&labelColor=1E1E2E)](https://github.com/Tahsin22201243)
+[![Profile views](https://komarev.com/ghpvc/?username=SharifdotG&style=for-the-badge&color=89B4FA&label=PROFILE+VIEWS&base=2000)](https://github.com/Tahsin22201243)
+
+</div>
+
+---
+
+## 🎯 **About Me**
+
+> 🏆 **Competitive Programmer** | 🎓 **CSE Third Year Student** | 🚀 **Bignner Software Engineer**
+
+🌟 Currently pursuing my **Bachelor's in Computer Science & Engineering** at **University of Asia Pacific** (3th & Final Year)
+
+🌟I am just a ordinary person & a peace loving soul. I have no enemies. 
+In fact no one born to have enemy.
+I just stay connected to my daily activities. 
+Insallah one day I will be the elite programmer in country
+
+```typescript
+const tahsin = {
+    location: "Dhaka, Bangladesh 🇧🇩",
+    education: "CSE @ University of Asia Pacific",
+    currentFocus: ["Competitive Programming", "Software Engineering", "Web Development"],
+    askMeAbout: ["Algorithms", "Problem Solving", "Font Design"],
+    funFact: "Somebody at now spying on me !✨"
+};
+```
+
+---
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tahsin22201243)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/h_mtahsinsheikh_622d2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/h-m-tahsin-sheikh-32a94727a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hm.tahsinsheikh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/hm.tahsinsheikh?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/tahsin10039?s=21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@hmparadox1303)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tahsin22201243.github.io/public_html/)  
+## 🛠️ **Tech Arsenal**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Tahsin22201243)](https://github.com/ryo-ma/github-profile-trophy)
+### 💻 **Programming Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Tahsin22201243)](https://github.com/anuraghazra/github-readme-stats)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Tahsin22201243&show_icons=true)  
+### 🌐 **Web Development**
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Tahsin22201243/contributions?format=svg&private=false)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🗄️ **Databases & Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+
+
+![Stars](https://img.shields.io/github/stars/SharifdotG/SharifdotG-s-CodeVault?style=for-the-badge&color=F9E2AF&labelColor=1E1E2E)
+![Language](https://img.shields.io/badge/C++-56.0%25-blue?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Problems-1300+-green?style=for-the-badge)
+
+---
+
+### 🛒 **[SohojWeb]((https://github.com/Tahsin22201243/SohojWeb.git))**
+>
+> 🖥️ **Halal Investment Platform** 
+
+Sohoj Biniyog is a halal investment site where investors will invest through SME business holders creative content.Also can partnerships with them.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-69.5%25-orange?style=for-the-badge)
+
+(https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/491935626_2142000769556109_6438846212574393459_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NogWiT58_xwQ7kNvwH9yR2k&_nc_oc=AdnvpPpA5Wospfvc0ScNwgbt8RdboHsAHLnzigZFsHR3t5xvFt0XCyXESRUDT288jPs&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=npw_PWl6BlulBDkNHaiQGg&oh=00_AfYlXzjVtkdOBp_ptZFqB84UZA_evii37oMyIzZL1jHaiA&oe=68CF535B)
+
+<div align="center">
+
+**Copywrite: owner Sharif Md. Yousuf**
+
+</div>
+
+
 
