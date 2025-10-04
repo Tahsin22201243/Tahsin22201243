@@ -98,8 +98,47 @@ Sohoj Biniyog is a halal investment site where investors will invest through SME
 
 
 <div align="center">
+### **Inspirational Quotes from Islamic Scholars**
 
-**Copywrite: owner Sharif Md. Yousuf**
+> **"The ink of the scholar is more precious than the blood of the martyr."**  
+> — **Prophet Muhammad (PBUH)**, **Sunan Ibn Majah**  
+> This reminds me that knowledge is a powerful tool that transcends even the most heroic sacrifices. It motivates me to keep learning and sharing knowledge.
+
+> **"Acquire knowledge and teach it to the people. Learn dignity and tranquility, and live with them."**  
+> — **Imam Ali (RA)**  
+> This aligns with my goal to educate others and spread awareness through my tech projects and online content.
+
+> **"Seek knowledge from the cradle to the grave."**  
+> — **Prophet Muhammad (PBUH)**  
+> A reminder that learning should never stop. Whether I'm working on **Machine Learning**, **AI**, or **Web Development**, I will continue to grow and evolve.
+
+> **"The best of people are those who are most beneficial to others."**  
+> — **Prophet Muhammad (PBUH)**  
+> I am inspired to build technologies that help solve real-world problems, contributing positively to society.
+
+> **"He who does not learn from his mistakes is a fool."**  
+> — **Imam Shafi’i**  
+> This is a lesson I take to heart in my coding journey, learning from every bug and every challenge.
+
+> **"A person’s true wealth is the good he does in the world."**  
+> — **Prophet Muhammad (PBUH)**  
+> I aspire to use my skills for the greater good, creating tech solutions that have a lasting impact.
+
+> **"Knowledge is not what is memorized. Knowledge is what benefits."**  
+> — **Imam Malik (RA)**  
+> This quote reminds me that practical application of knowledge is more valuable than mere theory.
+
+> **"Take benefit of five before five: your youth before your old age, your health before your sickness, your wealth before your poverty, your free time before your work, and your life before your death."**  
+> — **Imam Ali (RA)**  
+> A reminder to make the most of my time and resources, balancing my growth, learning, and giving back to the community.
+
+
+## 
+<!-- 
+Author(s): Sharif Md. Yousuf & Md. Noushad Jahan Ramim  
+Date: 2025-10-03  
+-->
+**Copywrite: owner H. M. Tahsin Sheikh**
 
 </div>
 
