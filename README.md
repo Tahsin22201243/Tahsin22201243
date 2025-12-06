@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=28&pause=1000&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=800&lines=Competitive+Programmer;Software+Engineering+Student+%7C+Third+Year)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=28&pause=1000&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=800&lines=Competitive+Programmer;Software+Engineering+Student+%7C+Fourth+Year)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,9 +22,9 @@
 
 ## 🎯 **About Me**
 
-> 🏆 **Competitive Programmer** | 🎓 **CSE Third Year Student** | 🚀 **Bignner Software Engineer**
+> 🏆 **Competitive Programmer** | 🎓 **CSE Fourth Year Student** | 🚀 **Bignner Software Engineer**
 
-🌟 Currently pursuing my **Bachelor's in Computer Science & Engineering** at **University of Asia Pacific** (3th & Final Year)
+🌟 Currently pursuing my **Bachelor's in Computer Science & Engineering** at **University of Asia Pacific** (4th & Final Year)
 
 🌟I am just a ordinary person & a peace loving soul. I have no enemies. 
 In fact no one born to have enemy.
